@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18A41DB42016B3CD0061DE0C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18A41DB32016B3CD0061DE0C /* main.cpp */; };
+		18A41DB42016B3CD0061DE0C /* tareaarchivosb.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 18A41DB32016B3CD0061DE0C /* tareaarchivosb.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		18A41DB02016B3CD0061DE0C /* tareaarchivosb */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = tareaarchivosb; sourceTree = BUILT_PRODUCTS_DIR; };
-		18A41DB32016B3CD0061DE0C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		18A41DB32016B3CD0061DE0C /* tareaarchivosb.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tareaarchivosb.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		18A41DB22016B3CD0061DE0C /* tareaarchivosb */ = {
 			isa = PBXGroup;
 			children = (
-				18A41DB32016B3CD0061DE0C /* main.cpp */,
+				18A41DB32016B3CD0061DE0C /* tareaarchivosb.cpp */,
 			);
 			path = tareaarchivosb;
 			sourceTree = "<group>";
@@ -120,7 +120,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18A41DB42016B3CD0061DE0C /* main.cpp in Sources */,
+				18A41DB42016B3CD0061DE0C /* tareaarchivosb.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
